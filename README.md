@@ -1,6 +1,7 @@
 # eat-the-burger
 
 **Objective**
+
 This burger app allows users to input the burgers they would like to eat, then devour them! 
 
 **Getting Started**
